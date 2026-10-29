@@ -10,6 +10,8 @@ Ngôn ngữ giao diện: English, 简体中文, 繁體中文, 日本語, 한국�
 
 Hỗ trợ sâu Jasna (giải mã video), Transub (phụ đề) và Transub Player. Đường dẫn đặt trong **Cài đặt → Công cụ** hoặc **Cài đặt → Trực tiếp**.
 
+**Tài liệu:** [Cách thêm nguồn nội dung và nguồn tải xuống](HOW-TO-ADD-SOURCES.vi.md)
+
 ---
 
 ## Tóm tắt tính năng
@@ -19,8 +21,8 @@ Hỗ trợ sâu Jasna (giải mã video), Transub (phụ đề) và Transub Play
 | **Thư viện** | Quét thư mục cục bộ; bổ sung ảnh bìa / tiêu đề / phụ đề; lưu trữ theo mẫu |
 | **Ảnh bìa** | Tra cứu và lưu ảnh bìa theo mã (quy tắc có sẵn, chỉnh được) |
 | **Lọc** | Danh mục diễn viên, nhãn, nhà sản xuất, thể loại; tìm kiếm và xem ngẫu nhiên |
-| **Nguồn nội dung** | Danh sách trang tùy chỉnh; HTML / JSON / trình duyệt; chọn trường trực quan |
-| **Nguồn tải xuống** | Tìm tài nguyên theo mã hoặc từ khóa; sao chép hoặc mở kết quả |
+| **Nguồn nội dung** | Danh sách trang tùy chỉnh; HTML / JSON / trình duyệt; chọn trường trực quan — [hướng dẫn](HOW-TO-ADD-SOURCES.vi.md) |
+| **Nguồn tải xuống** | Tìm tài nguyên theo mã hoặc từ khóa; sao chép hoặc mở kết quả — [hướng dẫn](HOW-TO-ADD-SOURCES.vi.md) |
 | **Theo dõi** | Quét nguồn nội dung có mục mới, hoặc quét mã đã có tài nguyên tải hay chưa |
 | **Trực tiếp** | Duyệt streamer theo danh mục; yêu thích và gần đây; trang tích hợp hoặc Transub Player |
 | **Lối tắt & Tác vụ** | Ghim nguồn thường dùng; xem và thử lại tác vụ nền |
@@ -60,11 +62,15 @@ Cài đặt liên quan: **Tiêu đề & diễn viên**, **Lưu trữ phim** (m�
 3. Ảnh bìa có thể phát (ưu tiên cục bộ, không thì phân tích rồi Transub Player), tra tải xuống, hoặc theo dõi tài nguyên; menu nguồn bật theo dõi tổng hợp hoặc thêm lối tắt.
 4. Thanh bên **Nhập / Xuất** gói mã hóa để đồng bộ nhiều máy.
 
+Chi tiết: [Cách thêm nguồn nội dung và nguồn tải xuống](HOW-TO-ADD-SOURCES.vi.md).
+
 ### Nguồn tải xuống
 
 1. **Thêm nguồn tải xuống** → cấu hình URL tìm (có chỗ dành từ khóa) và trường danh sách → lưu.
 2. Mở nguồn, nhập mã → **Tìm tài nguyên** → mở chi tiết, sao chép magnet hoặc tải trong bảng.
 3. Có thể ghim lối tắt; nhập/xuất tương tự. Nguồn tải mặc định cho theo dõi tài nguyên ở **Cài đặt → Theo dõi**.
+
+Chi tiết: [Cách thêm nguồn nội dung và nguồn tải xuống](HOW-TO-ADD-SOURCES.vi.md).
 
 ### Theo dõi
 

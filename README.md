@@ -10,6 +10,8 @@ UI languages: English, 简体中文, 繁體中文, 日本語, 한국어, ภา�
 
 Works closely with Jasna (video decode), Transub (subtitles), and Transub Player. Set paths under **Settings → Tools** or **Settings → Live**.
 
+**Docs:** [How to add content & download sources](HOW-TO-ADD-SOURCES.md)
+
 ---
 
 ## Features at a glance
@@ -19,8 +21,8 @@ Works closely with Jasna (video decode), Transub (subtitles), and Transub Player
 | **Library** | Scan local folders; fill covers / titles / subtitles; archive by template |
 | **Covers** | Look up and save covers by product code (built-in rules; editable) |
 | **Filter** | Actress, label, maker, and genre catalogs; search and random browse |
-| **Content sources** | Custom site lists; HTML / JSON / browser render; visual field picking |
-| **Download sources** | Find resources by code or keyword; copy or open results |
+| **Content sources** | Custom site lists; HTML / JSON / browser render; visual field picking — [how to](HOW-TO-ADD-SOURCES.md) |
+| **Download sources** | Find resources by code or keyword; copy or open results — [how to](HOW-TO-ADD-SOURCES.md) |
 | **Watch** | Poll content sources for new items, or poll whether a code has downloads |
 | **Live** | Browse streamers by category; favorites and recent; built-in page or Transub Player |
 | **Shortcuts & Jobs** | Pin frequent sources; view and retry background jobs |
@@ -60,11 +62,15 @@ Related settings: **Title & actresses**, **Movie archive** (path templates, `mov
 3. Covers can play (local first, otherwise parse then Transub Player), look up downloads, or join resource watch; source menu can enable aggregate watch or add to shortcuts.
 4. Sidebar **Import / Export** encrypted packs for syncing across machines.
 
+Detail: [How to add content & download sources](HOW-TO-ADD-SOURCES.md).
+
 ### Download sources
 
 1. **Add download source** → configure the search URL (with keyword placeholder) and list fields → save.
 2. Open a source, enter a code → **Find resources** → open detail, copy magnet, or start download in the table.
 3. Pin to shortcuts; import / export works the same. Default download source for resource watch is under **Settings → Watch**.
+
+Detail: [How to add content & download sources](HOW-TO-ADD-SOURCES.md).
 
 ### Watch
 
