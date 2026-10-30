@@ -136,7 +136,7 @@ When the test returns rows, **Save**. Open the source, enter a code → **Find r
 | Find downloads | Cover download button, or search inside a download source |
 | Watch new titles | Enable **Watch new items**, or add aggregate watch |
 | Watch a code for magnets | Need a download source first → cover bell or resource watch |
-| Sync machines | Sidebar **Import / Export** (encrypted packs) |
+| Sync machines | Sidebar **Import / Export** (encrypted packs) — see [How to export & import sources](HOW-TO-IMPORT-EXPORT-SOURCES.md) |
 
 Default download sources for resource watch: **Settings → Watch**.
 

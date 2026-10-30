@@ -10,7 +10,7 @@ UI languages: English, 简体中文, 繁體中文, 日本語, 한국어, ภา�
 
 Works closely with Jasna (video decode), Transub (subtitles), and Transub Player. Set paths under **Settings → Tools** or **Settings → Live**.
 
-**Docs:** [How to add content & download sources](HOW-TO-ADD-SOURCES.md)
+**Docs:** [How to add content & download sources](HOW-TO-ADD-SOURCES.md) · [How to export & import sources](HOW-TO-IMPORT-EXPORT-SOURCES.md)
 
 ---
 
@@ -62,7 +62,7 @@ Related settings: **Title & actresses**, **Movie archive** (path templates, `mov
 3. Covers can play (local first, otherwise parse then Transub Player), look up downloads, or join resource watch; source menu can enable aggregate watch or add to shortcuts.
 4. Sidebar **Import / Export** encrypted packs for syncing across machines.
 
-Detail: [How to add content & download sources](HOW-TO-ADD-SOURCES.md).
+Detail: [How to add content & download sources](HOW-TO-ADD-SOURCES.md). Import / export: [How to export & import sources](HOW-TO-IMPORT-EXPORT-SOURCES.md).
 
 ### Download sources
 
@@ -70,7 +70,7 @@ Detail: [How to add content & download sources](HOW-TO-ADD-SOURCES.md).
 2. Open a source, enter a code → **Find resources** → open detail, copy magnet, or start download in the table.
 3. Pin to shortcuts; import / export works the same. Default download source for resource watch is under **Settings → Watch**.
 
-Detail: [How to add content & download sources](HOW-TO-ADD-SOURCES.md).
+Detail: [How to add content & download sources](HOW-TO-ADD-SOURCES.md). Import / export: [How to export & import sources](HOW-TO-IMPORT-EXPORT-SOURCES.md).
 
 ### Watch
 

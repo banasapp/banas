@@ -10,7 +10,7 @@ UI 언어: English, 简体中文, 繁體中文, 日本語, 한국어, ภาษ�
 
 Jasna(영상 디코드), Transub(자막), Transub Player와 연동됩니다. 경로는 **설정 → 도구** 또는 **설정 → 라이브**에서 지정합니다.
 
-**문서:** [콘텐츠·다운로드 소스 추가 방법](HOW-TO-ADD-SOURCES.ko.md)
+**문서:** [콘텐츠·다운로드 소스 추가 방법](HOW-TO-ADD-SOURCES.ko.md) · [소스 내보내기·가져오기](HOW-TO-IMPORT-EXPORT-SOURCES.ko.md)
 
 ---
 
@@ -62,7 +62,7 @@ Jasna(영상 디코드), Transub(자막), Transub Player와 연동됩니다. 경
 3. 커버 재생(로컬 우선, 없으면 파싱 후 Transub Player), 다운로드 조회, 리소스 감시. 메뉴에서 집계 감시·바로가기 추가.
 4. 사이드바 암호화 팩 **가져오기 / 내보내기**로 여러 PC 동기화.
 
-상세: [콘텐츠·다운로드 소스 추가 방법](HOW-TO-ADD-SOURCES.ko.md).
+상세: [콘텐츠·다운로드 소스 추가 방법](HOW-TO-ADD-SOURCES.ko.md). 가져오기/내보내기: [소스 내보내기·가져오기](HOW-TO-IMPORT-EXPORT-SOURCES.ko.md).
 
 ### 다운로드 소스
 
@@ -70,7 +70,7 @@ Jasna(영상 디코드), Transub(자막), Transub Player와 연동됩니다. 경
 2. 소스 열고 품번 입력 → **리소스 찾기** → 표에서 상세·마그넷 복사·다운로드.
 3. 바로가기 가능. 가져오기/내보내기 동일. 리소스 감시 기본 소스는 **설정 → 감시**.
 
-상세: [콘텐츠·다운로드 소스 추가 방법](HOW-TO-ADD-SOURCES.ko.md).
+상세: [콘텐츠·다운로드 소스 추가 방법](HOW-TO-ADD-SOURCES.ko.md). 가져오기/내보내기: [소스 내보내기·가져오기](HOW-TO-IMPORT-EXPORT-SOURCES.ko.md).
 
 ### 감시
 

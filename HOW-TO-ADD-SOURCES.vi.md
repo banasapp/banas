@@ -136,7 +136,7 @@ Khi kiểm tra có hàng thì **Lưu**. Mở nguồn, nhập mã → **Tìm tài
 | Tìm tải xuống | Nút tải trên bìa, hoặc tìm trong nguồn tải |
 | Theo dõi phim mới | Bật「Theo dõi mục mới」hoặc theo dõi tổng hợp |
 | Chờ magnet của một mã | Cần nguồn tải trước → chuông trên bìa / theo dõi tài nguyên |
-| Đồng bộ nhiều máy | **Nhập/Xuất** trên thanh bên（gói mã hoá） |
+| Đồng bộ nhiều máy | **Nhập/Xuất** trên thanh bên（gói mã hoá）— [Cách xuất và nhập nguồn](HOW-TO-IMPORT-EXPORT-SOURCES.vi.md) |
 
 Nguồn tải mặc định cho theo dõi tài nguyên: **Cài đặt → Theo dõi**.
 

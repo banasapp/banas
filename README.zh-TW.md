@@ -10,7 +10,7 @@
 
 深度配合 Jasna 影片解碼、Transub 字幕產生與 Transub Player；路徑在「設定 → 工具」或「設定 → 直播」中指定。
 
-**文件：** [如何填寫內容源與下載源](HOW-TO-ADD-SOURCES.zh-TW.md)
+**文件：** [如何填寫內容源與下載源](HOW-TO-ADD-SOURCES.zh-TW.md) · [如何匯出與匯入源](HOW-TO-IMPORT-EXPORT-SOURCES.zh-TW.md)
 
 ---
 
@@ -62,7 +62,7 @@
 3. 封面可播放（本地優先，否則解析後用 Transub Player）、查下載、加入資源監聽；源選單可開聚合監聽或加入捷徑。
 4. 側欄支援加密包 **匯入 / 匯出**，便於多機同步。
 
-詳細填寫步驟見：[如何填寫內容源與下載源](HOW-TO-ADD-SOURCES.zh-TW.md)。
+詳細填寫步驟見：[如何填寫內容源與下載源](HOW-TO-ADD-SOURCES.zh-TW.md)。匯入匯出見：[如何匯出與匯入源](HOW-TO-IMPORT-EXPORT-SOURCES.zh-TW.md)。
 
 ### 下載源
 
@@ -70,7 +70,7 @@
 2. 點源後在主區輸入番號 → **查找資源** → 在表格中開啟詳情、複製磁力連結或開啟下載。
 3. 可加入捷徑；側欄同樣支援匯入 / 匯出。資源監聽預設使用的下載源在 **設定 → 監聽** 中指定。
 
-詳細填寫步驟見：[如何填寫內容源與下載源](HOW-TO-ADD-SOURCES.zh-TW.md)。
+詳細填寫步驟見：[如何填寫內容源與下載源](HOW-TO-ADD-SOURCES.zh-TW.md)。匯入匯出見：[如何匯出與匯入源](HOW-TO-IMPORT-EXPORT-SOURCES.zh-TW.md)。
 
 ### 監聽
 

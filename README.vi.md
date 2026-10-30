@@ -10,7 +10,7 @@ Ngôn ngữ giao diện: English, 简体中文, 繁體中文, 日本語, 한국�
 
 Hỗ trợ sâu Jasna (giải mã video), Transub (phụ đề) và Transub Player. Đường dẫn đặt trong **Cài đặt → Công cụ** hoặc **Cài đặt → Trực tiếp**.
 
-**Tài liệu:** [Cách thêm nguồn nội dung và nguồn tải xuống](HOW-TO-ADD-SOURCES.vi.md)
+**Tài liệu:** [Cách thêm nguồn nội dung và nguồn tải xuống](HOW-TO-ADD-SOURCES.vi.md) · [Cách xuất và nhập nguồn](HOW-TO-IMPORT-EXPORT-SOURCES.vi.md)
 
 ---
 
@@ -62,7 +62,7 @@ Cài đặt liên quan: **Tiêu đề & diễn viên**, **Lưu trữ phim** (m�
 3. Ảnh bìa có thể phát (ưu tiên cục bộ, không thì phân tích rồi Transub Player), tra tải xuống, hoặc theo dõi tài nguyên; menu nguồn bật theo dõi tổng hợp hoặc thêm lối tắt.
 4. Thanh bên **Nhập / Xuất** gói mã hóa để đồng bộ nhiều máy.
 
-Chi tiết: [Cách thêm nguồn nội dung và nguồn tải xuống](HOW-TO-ADD-SOURCES.vi.md).
+Chi tiết: [Cách thêm nguồn nội dung và nguồn tải xuống](HOW-TO-ADD-SOURCES.vi.md). Nhập/xuất: [Cách xuất và nhập nguồn](HOW-TO-IMPORT-EXPORT-SOURCES.vi.md).
 
 ### Nguồn tải xuống
 
@@ -70,7 +70,7 @@ Chi tiết: [Cách thêm nguồn nội dung và nguồn tải xuống](HOW-TO-AD
 2. Mở nguồn, nhập mã → **Tìm tài nguyên** → mở chi tiết, sao chép magnet hoặc tải trong bảng.
 3. Có thể ghim lối tắt; nhập/xuất tương tự. Nguồn tải mặc định cho theo dõi tài nguyên ở **Cài đặt → Theo dõi**.
 
-Chi tiết: [Cách thêm nguồn nội dung và nguồn tải xuống](HOW-TO-ADD-SOURCES.vi.md).
+Chi tiết: [Cách thêm nguồn nội dung và nguồn tải xuống](HOW-TO-ADD-SOURCES.vi.md). Nhập/xuất: [Cách xuất và nhập nguồn](HOW-TO-IMPORT-EXPORT-SOURCES.vi.md).
 
 ### Theo dõi
 
