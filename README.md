@@ -8,7 +8,12 @@ Add your own content sources, download sources, and other site configs. Banas do
 
 UI languages: English, 简体中文, 繁體中文, 日本語, 한국어, ภาษาไทย, Tiếng Việt.
 
-Works closely with Jasna (video decode), Transub (subtitles), and Transub Player. Set paths under **Settings → Tools** or **Settings → Live**.
+**Works closely with:**
+- **Jasna (video decode):** https://github.com/Kruk2/jasna/releases
+- **Transub (subtitles):** https://github.com/dlsandy/Transub/releases
+- **Transub Player (video/live player):** https://github.com/dlsandy/Transub-Player/releases
+
+Set paths under **Settings → Tools** or **Settings → Live**.
 
 **Docs:** [How to add content & download sources](HOW-TO-ADD-SOURCES.md) · [How to export & import sources](HOW-TO-IMPORT-EXPORT-SOURCES.md)
 
