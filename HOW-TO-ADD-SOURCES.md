@@ -122,6 +122,8 @@ Enter the site home or search page, e.g. `https://1cili.net/`. Optional:
 | **Magnet is on the detail page** | When the list has no magnet; open detail to fetch it |
 | **Test keyword** | e.g. `IPX-001` — use **Test** before saving |
 
+You can also use **Visual pick** at the bottom: open the search page with the test keyword and click list / title / size / date / magnet / detail in order (later steps are optional). For Cloudflare, switch to **Open in Camoufox**.
+
 Search URL also accepts `${wd}`, `${q}`, `${code}`, `${CODE}` (uppercase), `{0}` (keyword), `{1}` / `${page}` (page).
 
 When the test returns rows, **Save**. Open the source, enter a code → **Find resources** → copy magnet or open detail.

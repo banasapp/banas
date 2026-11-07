@@ -122,6 +122,8 @@ Nhập trang chủ hoặc trang tìm, ví dụ `https://1cili.net/`. Tuỳ chọ
 | **Magnet ở trang chi tiết** | Khi danh sách không có magnet; mở chi tiết để lấy |
 | **Từ khoá thử** | Ví dụ `IPX-001` — **Kiểm tra** trước khi lưu |
 
+Có thể dùng **Chọn trực quan** ở dưới: mở trang tìm với từ khoá thử, lần lượt bấm danh sách / tiêu đề / dung lượng / ngày / magnet / chi tiết (các bước sau có thể bỏ qua). Gặp Cloudflare thì mở bằng Camoufox.
+
 URL tìm còn hỗ trợ `${wd}`, `${q}`, `${code}`, `${CODE}`（hoa）, `{0}`（từ khoá）, `{1}` / `${page}`（trang）.
 
 Khi kiểm tra có hàng thì **Lưu**. Mở nguồn, nhập mã → **Tìm tài nguyên** → sao chép magnet hoặc mở chi tiết.
